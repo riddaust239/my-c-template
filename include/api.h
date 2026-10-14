@@ -1,3 +1,3 @@
 #pragma once
 
-int hello_world();
+void hello_world();

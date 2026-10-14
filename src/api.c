@@ -1,7 +1,7 @@
 #include "api.h"
 #include <stdio.h>
 
-int hello_world()
+void hello_world()
 {
     print("Hello, World!");
 }
